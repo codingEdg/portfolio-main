@@ -16,7 +16,7 @@ const greeting = {
   full_name: "Mehtab Ali",
   subTitle: "React Developer, Node Learning Enthusiast. Always learning.",
   resumeLink:
-    "https://drive.google.com/file/d/1re7YS2wgj-W2MTbejmxGE7zVXLX1Xpaq/view?usp=sharing",
+    "https://drive.google.com/file/d/1j6RfWes-QPNsKXXPwWRy6v3lLzojzhB0/view?usp=sharing",
   mail: "mailto:mohd2mehtab@gmail.com",
 };
 
